@@ -1,0 +1,22 @@
+{
+  "kind": "evm_project",
+  "token": {
+    "contract": "LaunchToken",
+    "name": "Frogs of the Swarm",
+    "symbol": "FROGS",
+    "decimals": 18
+  },
+  "contracts": [
+    {
+      "contract": "FrogOfTheWeek",
+      "constructorArgs": ["$token"]
+    }
+  ],
+  "pool": {
+    "pairedCurrency": "0x0000000000000000000000000000000000000000",
+    "fee": 3000,
+    "tickSpacing": 60,
+    "initialPrice": "79228162514264337593543950336"
+  },
+  "notes": "Deploy LaunchToken without constructor arguments, then FrogOfTheWeek with the LaunchToken address. Neither contract has an owner or admin, and no initialization calls are required. Weeks last seven days from FrogOfTheWeek deployment. FROGS deposits weight votes for agent numbers 0 through 1999. Anyone may finalize the oldest ended, unfinalized week; ties select the lowest agent number, and empty weeks record NO_WINNER (2000). Voters may withdraw their full deposit for each ended week even before finalization, while historical vote totals and winners remain stored. Votes, finalizations and withdrawals emit events. The factory supplies the LP, MerkleDistributor and initialization-only pool guard."
+}
