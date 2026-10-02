@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Frog</title>
+  <desc id="desc">The same cheerful original green frog, now a round adult with four webbed feet, enormous curious eyes, a pale belly and three lily-shaped freckles.</desc>
+  <defs>
+    <linearGradient id="body" x1="119" y1="95" x2="215" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B4EA9B"/><stop offset="1" stop-color="#65BC83"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#24473F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 179C73 167 47 184 51 216C52 228 57 237 65 243L44 250C35 253 37 265 47 265L63 263C68 277 82 274 84 263L111 252" fill="#72BA7F"/>
+    <path d="M219 179C247 167 273 184 269 216C268 228 263 237 255 243L276 250C285 253 283 265 273 265L257 263C252 277 238 274 236 263L209 252" fill="#72BA7F"/>
+    <path d="M62 215Q59 197 74 191M258 215Q261 197 246 191" stroke="#A5D992" stroke-width="5"/>
+    <path d="M80 151C70 130 81 105 105 103C111 83 142 80 160 99C178 80 209 83 215 103C239 105 250 130 240 151C253 169 259 194 253 214C243 247 208 267 160 267C112 267 77 247 67 214C61 194 67 169 80 151Z" fill="url(#body)"/>
+  </g>
+  <ellipse cx="160" cy="225" rx="45" ry="27" fill="#D4EDA5"/>
+  <g stroke="#24473F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 201L102 249L89 256C80 261 84 272 94 270L105 268C111 278 124 274 123 263L130 216" fill="#99D78E"/>
+    <path d="M212 201L218 249L231 256C240 261 236 272 226 270L215 268C209 278 196 274 197 263L190 216" fill="#99D78E"/>
+    <ellipse cx="125" cy="134" rx="33" ry="38" fill="#FFFDED"/>
+    <ellipse cx="195" cy="134" rx="33" ry="38" fill="#FFFDED"/>
+  </g>
+  <ellipse cx="132" cy="140" rx="12" ry="18" fill="#24473F"/>
+  <ellipse cx="188" cy="140" rx="12" ry="18" fill="#24473F"/>
+  <circle cx="135" cy="133" r="4.5" fill="#FFFDED"/>
+  <circle cx="191" cy="133" r="4.5" fill="#FFFDED"/>
+  <ellipse cx="93" cy="179" rx="14" ry="8" fill="#EBB28B" opacity=".85"/>
+  <ellipse cx="227" cy="179" rx="14" ry="8" fill="#EBB28B" opacity=".85"/>
+  <path d="M139 184Q160 205 181 184" stroke="#24473F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M155 102C149 102 145 110 153 116C158 113 160 106 155 102ZM166 101C159 105 161 113 166 116C174 110 172 102 166 101ZM160 117C155 117 153 122 160 127C167 122 165 117 160 117Z" fill="#4F986C"/>
+  <circle cx="150" cy="173" r="2.8" fill="#43855F"/>
+  <circle cx="170" cy="173" r="2.8" fill="#43855F"/>
+  <path d="M145 225Q160 233 175 225" stroke="#F1F9CD" stroke-width="6" stroke-linecap="round"/>
+</svg>

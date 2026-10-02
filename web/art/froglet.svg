@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Froglet</title>
+  <desc id="desc">The same cheerful green frog character growing four small legs, with a short curling tail, enormous curious eyes and three lily-shaped freckles.</desc>
+  <defs>
+    <linearGradient id="body" x1="102" y1="107" x2="190" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B4EA9B"/><stop offset="1" stop-color="#65BC83"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#24473F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M194 205C231 216 254 201 262 171C282 203 268 247 226 249L189 240" fill="#85CD8C"/>
+    <path d="M221 230Q244 224 252 211" stroke="#4B9C71" stroke-width="4"/>
+    <path d="M93 204C69 192 53 213 63 237L50 246C43 253 49 261 59 259L69 256C72 267 83 267 87 257L96 239" fill="#77C185"/>
+    <path d="M194 206C218 195 232 215 221 238L233 247C241 254 235 262 225 259L215 256C212 267 201 267 197 257L189 239" fill="#77C185"/>
+    <path d="M75 157C68 136 81 114 102 115C108 98 131 95 145 109C163 95 188 106 191 124C213 137 221 158 219 185C217 221 190 247 146 247C102 247 71 221 70 185C70 175 72 165 75 157Z" fill="url(#body)"/>
+    <path d="M91 204L98 242L88 248C79 254 83 264 94 262L105 258C112 267 122 262 120 252L116 216" fill="#A3DD92"/>
+    <path d="M197 204L190 242L200 248C209 254 205 264 194 262L183 258C176 267 166 262 168 252L172 216" fill="#A3DD92"/>
+    <ellipse cx="113" cy="150" rx="29" ry="35" fill="#FFFDED"/>
+    <ellipse cx="175" cy="150" rx="29" ry="35" fill="#FFFDED"/>
+  </g>
+  <ellipse cx="120" cy="155" rx="11" ry="17" fill="#24473F"/>
+  <ellipse cx="168" cy="155" rx="11" ry="17" fill="#24473F"/>
+  <circle cx="123" cy="149" r="4" fill="#FFFDED"/>
+  <circle cx="171" cy="149" r="4" fill="#FFFDED"/>
+  <ellipse cx="90" cy="187" rx="12" ry="7" fill="#EBB28B" opacity=".85"/>
+  <ellipse cx="197" cy="187" rx="12" ry="7" fill="#EBB28B" opacity=".85"/>
+  <path d="M126 192Q144 210 162 192" stroke="#24473F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M139 114C133 114 130 121 138 127C142 124 144 118 139 114ZM149 113C143 117 145 124 150 127C157 121 155 114 149 113ZM144 128C140 128 138 133 144 137C150 133 148 128 144 128Z" fill="#4F986C"/>
+  <circle cx="135" cy="182" r="2.5" fill="#43855F"/>
+  <circle cx="153" cy="182" r="2.5" fill="#43855F"/>
+  <path d="M132 226Q144 231 156 226" stroke="#D4F3AD" stroke-width="9" stroke-linecap="round"/>
+</svg>

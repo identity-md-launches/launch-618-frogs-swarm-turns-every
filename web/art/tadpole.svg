@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tadpole</title>
+  <desc id="desc">An original cheerful green tadpole with an upward curling tail, enormous curious eyes, rosy cheeks and three lily-shaped freckles.</desc>
+  <defs>
+    <linearGradient id="body" x1="99" y1="116" x2="201" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B4EA9B"/><stop offset="1" stop-color="#65BC83"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="196" y1="170" x2="280" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75C88B"/><stop offset="1" stop-color="#A9DD91"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#24473F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M185 185C227 210 258 193 266 142C295 169 294 216 270 242C247 267 206 249 173 230" fill="url(#tail)"/>
+    <path d="M203 220C234 229 255 216 264 193" stroke="#4B9C71" stroke-width="4"/>
+    <path d="M72 166C66 146 77 124 98 122C103 103 130 99 145 115C163 99 189 109 193 130C213 141 223 161 220 185C218 225 184 253 143 253C100 253 66 226 66 190C66 181 68 173 72 166Z" fill="url(#body)"/>
+    <path d="M92 221C119 242 157 245 184 226" stroke="#D4F3AD" stroke-width="11" opacity=".72"/>
+    <ellipse cx="111" cy="155" rx="29" ry="35" fill="#FFFDED"/>
+    <ellipse cx="173" cy="155" rx="29" ry="35" fill="#FFFDED"/>
+  </g>
+  <ellipse cx="118" cy="160" rx="11" ry="17" fill="#24473F"/>
+  <ellipse cx="166" cy="160" rx="11" ry="17" fill="#24473F"/>
+  <circle cx="121" cy="154" r="4" fill="#FFFDED"/>
+  <circle cx="169" cy="154" r="4" fill="#FFFDED"/>
+  <ellipse cx="88" cy="192" rx="12" ry="7" fill="#EBB28B" opacity=".85"/>
+  <ellipse cx="195" cy="192" rx="12" ry="7" fill="#EBB28B" opacity=".85"/>
+  <path d="M125 197Q142 214 159 197" stroke="#24473F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M138 119C132 119 129 126 137 132C141 129 143 123 138 119ZM148 118C142 122 144 129 149 132C156 126 154 119 148 118ZM143 133C139 133 137 138 143 142C149 138 147 133 143 133Z" fill="#4F986C"/>
+  <circle cx="133" cy="187" r="2.5" fill="#43855F"/>
+  <circle cx="151" cy="187" r="2.5" fill="#43855F"/>
+  <path d="M88 211L90 214" stroke="#E9F8CD" stroke-width="5" stroke-linecap="round"/>
+</svg>
